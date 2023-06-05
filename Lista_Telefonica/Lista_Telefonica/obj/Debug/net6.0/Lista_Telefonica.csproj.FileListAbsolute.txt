@@ -1,0 +1,30 @@
+C:\Users\theog\OneDrive\Área de Trabalho\Faculdade\3 Periodo\1. Segunda\APS 2\Lista_Telefonica\Lista_Telefonica\bin\Debug\net6.0\Lista_Telefonica.exe
+C:\Users\theog\OneDrive\Área de Trabalho\Faculdade\3 Periodo\1. Segunda\APS 2\Lista_Telefonica\Lista_Telefonica\bin\Debug\net6.0\Lista_Telefonica.deps.json
+C:\Users\theog\OneDrive\Área de Trabalho\Faculdade\3 Periodo\1. Segunda\APS 2\Lista_Telefonica\Lista_Telefonica\bin\Debug\net6.0\Lista_Telefonica.runtimeconfig.json
+C:\Users\theog\OneDrive\Área de Trabalho\Faculdade\3 Periodo\1. Segunda\APS 2\Lista_Telefonica\Lista_Telefonica\bin\Debug\net6.0\Lista_Telefonica.dll
+C:\Users\theog\OneDrive\Área de Trabalho\Faculdade\3 Periodo\1. Segunda\APS 2\Lista_Telefonica\Lista_Telefonica\bin\Debug\net6.0\Lista_Telefonica.pdb
+C:\Users\theog\OneDrive\Área de Trabalho\Faculdade\3 Periodo\1. Segunda\APS 2\Lista_Telefonica\Lista_Telefonica\obj\Debug\net6.0\Lista_Telefonica.csproj.AssemblyReference.cache
+C:\Users\theog\OneDrive\Área de Trabalho\Faculdade\3 Periodo\1. Segunda\APS 2\Lista_Telefonica\Lista_Telefonica\obj\Debug\net6.0\Lista_Telefonica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theog\OneDrive\Área de Trabalho\Faculdade\3 Periodo\1. Segunda\APS 2\Lista_Telefonica\Lista_Telefonica\obj\Debug\net6.0\Lista_Telefonica.AssemblyInfoInputs.cache
+C:\Users\theog\OneDrive\Área de Trabalho\Faculdade\3 Periodo\1. Segunda\APS 2\Lista_Telefonica\Lista_Telefonica\obj\Debug\net6.0\Lista_Telefonica.AssemblyInfo.cs
+C:\Users\theog\OneDrive\Área de Trabalho\Faculdade\3 Periodo\1. Segunda\APS 2\Lista_Telefonica\Lista_Telefonica\obj\Debug\net6.0\Lista_Telefonica.csproj.CoreCompileInputs.cache
+C:\Users\theog\OneDrive\Área de Trabalho\Faculdade\3 Periodo\1. Segunda\APS 2\Lista_Telefonica\Lista_Telefonica\obj\Debug\net6.0\Lista_Telefonica.dll
+C:\Users\theog\OneDrive\Área de Trabalho\Faculdade\3 Periodo\1. Segunda\APS 2\Lista_Telefonica\Lista_Telefonica\obj\Debug\net6.0\refint\Lista_Telefonica.dll
+C:\Users\theog\OneDrive\Área de Trabalho\Faculdade\3 Periodo\1. Segunda\APS 2\Lista_Telefonica\Lista_Telefonica\obj\Debug\net6.0\Lista_Telefonica.pdb
+C:\Users\theog\OneDrive\Área de Trabalho\Faculdade\3 Periodo\1. Segunda\APS 2\Lista_Telefonica\Lista_Telefonica\obj\Debug\net6.0\Lista_Telefonica.genruntimeconfig.cache
+C:\Users\theog\OneDrive\Área de Trabalho\Faculdade\3 Periodo\1. Segunda\APS 2\Lista_Telefonica\Lista_Telefonica\obj\Debug\net6.0\ref\Lista_Telefonica.dll
+C:\Users\davib\Downloads\Lista_Telefonica-main\Lista_Telefonica-main\Lista_Telefonica\Lista_Telefonica\bin\Debug\net6.0\Lista_Telefonica.exe
+C:\Users\davib\Downloads\Lista_Telefonica-main\Lista_Telefonica-main\Lista_Telefonica\Lista_Telefonica\bin\Debug\net6.0\Lista_Telefonica.deps.json
+C:\Users\davib\Downloads\Lista_Telefonica-main\Lista_Telefonica-main\Lista_Telefonica\Lista_Telefonica\bin\Debug\net6.0\Lista_Telefonica.runtimeconfig.json
+C:\Users\davib\Downloads\Lista_Telefonica-main\Lista_Telefonica-main\Lista_Telefonica\Lista_Telefonica\bin\Debug\net6.0\Lista_Telefonica.dll
+C:\Users\davib\Downloads\Lista_Telefonica-main\Lista_Telefonica-main\Lista_Telefonica\Lista_Telefonica\bin\Debug\net6.0\Lista_Telefonica.pdb
+C:\Users\davib\Downloads\Lista_Telefonica-main\Lista_Telefonica-main\Lista_Telefonica\Lista_Telefonica\obj\Debug\net6.0\Lista_Telefonica.csproj.AssemblyReference.cache
+C:\Users\davib\Downloads\Lista_Telefonica-main\Lista_Telefonica-main\Lista_Telefonica\Lista_Telefonica\obj\Debug\net6.0\Lista_Telefonica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davib\Downloads\Lista_Telefonica-main\Lista_Telefonica-main\Lista_Telefonica\Lista_Telefonica\obj\Debug\net6.0\Lista_Telefonica.AssemblyInfoInputs.cache
+C:\Users\davib\Downloads\Lista_Telefonica-main\Lista_Telefonica-main\Lista_Telefonica\Lista_Telefonica\obj\Debug\net6.0\Lista_Telefonica.AssemblyInfo.cs
+C:\Users\davib\Downloads\Lista_Telefonica-main\Lista_Telefonica-main\Lista_Telefonica\Lista_Telefonica\obj\Debug\net6.0\Lista_Telefonica.csproj.CoreCompileInputs.cache
+C:\Users\davib\Downloads\Lista_Telefonica-main\Lista_Telefonica-main\Lista_Telefonica\Lista_Telefonica\obj\Debug\net6.0\Lista_Telefonica.dll
+C:\Users\davib\Downloads\Lista_Telefonica-main\Lista_Telefonica-main\Lista_Telefonica\Lista_Telefonica\obj\Debug\net6.0\refint\Lista_Telefonica.dll
+C:\Users\davib\Downloads\Lista_Telefonica-main\Lista_Telefonica-main\Lista_Telefonica\Lista_Telefonica\obj\Debug\net6.0\Lista_Telefonica.pdb
+C:\Users\davib\Downloads\Lista_Telefonica-main\Lista_Telefonica-main\Lista_Telefonica\Lista_Telefonica\obj\Debug\net6.0\Lista_Telefonica.genruntimeconfig.cache
+C:\Users\davib\Downloads\Lista_Telefonica-main\Lista_Telefonica-main\Lista_Telefonica\Lista_Telefonica\obj\Debug\net6.0\ref\Lista_Telefonica.dll
